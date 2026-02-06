@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dc5eab843e1744293d605afa01ea10, type: 3}
+  m_Name: Planet_Vega II
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetCardData
+  cardName: Planet_Vega II
+  description: 
+  artwork: {fileID: 0}
+  cardType: 0
+  occupation: 3
+  development: 6
+  energyOutput: 0
+  materialOutput: 0
+  creditOutput: 0
+  hasBuilding: 0

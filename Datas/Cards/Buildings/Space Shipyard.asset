@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6220e234dc3ba8a459e495c761a179bf, type: 3}
+  m_Name: Space Shipyard
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingCardData
+  cardName: 
+  description: 
+  artwork: {fileID: 0}
+  cardType: 4
+  buildCost:
+    energy: 0
+    material: 0
+    credit: 0
+  upkeepCost:
+    energy: 0
+    material: 0
+    credit: 0
+  buildTime: 0
+  maxHull: 0
+  isActive: 0

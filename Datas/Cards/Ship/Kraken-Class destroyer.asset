@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3713ce514c4084ca62a64e970d95a6, type: 3}
+  m_Name: Kraken-Class destroyer
+  m_EditorClassIdentifier: Assembly-CSharp::ShipCardData
+  cardName: Kraken-Class destroyer
+  description: 
+  artwork: {fileID: 0}
+  cardType: 1
+  buildCost:
+    energy: 0
+    material: 0
+    credit: 0
+  upkeepCost:
+    energy: 0
+    material: 0
+    credit: 0
+  buildTime: 0
+  attackTypes: 00000000
+  attackPower: 10
+  attackRange: 0
+  maxShield: 20
+  maxHull: 20
+  moveSpeed: 3
+  energyStorage: 5
+  materialStorage: 5
